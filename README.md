@@ -88,7 +88,7 @@ sudo apt-get install -y qt4-dev-tools
 ```
 Now that we’ve got all those installed, we can install OpenCV. Issue:
 ```
-pip3 install opencv-python
+sudo pip3 install opencv-python
 ```
 Alright, now OpenCV is installed!
 
